@@ -57,4 +57,5 @@ You can read more about state machines and their advantages for Python programme
    tutorial
    compare
    visualize
+   semantics
    api/index
